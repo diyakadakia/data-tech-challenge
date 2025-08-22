@@ -25,3 +25,4 @@ I cleaned the dataset by:
    3. Model: Built a regression model with a third-degree polynomial trend, monthly dummy variables, and ridge regression (α = 0.1) to capture both long-term growth and seasonality.
    4. Evaluation: Assessed accuracy using MAE, RMSE, and MAPE.
    5. Recommendations: Suggested which routes AeroConnect should expand or scale back, and how to apply forecasts for planning.
+
