@@ -8,7 +8,7 @@ In this step of the application process, you will be completing a take-home chal
 Please finish this challenge before the date of your interview. Please read through this document thoroughly to make sure you follow ALL instructions. Try your best, and we can't wait to meet you!
 
 
-# Synopsis
+# Synopsis 
 You're been brought in as a Data Scientist on a project with AeroConnect, an international airline focused on optimizing its routes and expanding profitable city pairs. The client wants to know:   
     a) Which routes have the highest and lowest passenger traffic over time?  
     b) Are there any trends or growth patterns across different cities or regions?  
